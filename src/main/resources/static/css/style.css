@@ -26,3 +26,20 @@ main {
     border-radius: 1rem;
     background-color: rgba(255, 255, 255, 0.5);
 }
+
+
+.tabor .radek {
+    display: block;
+    margin-top: 1em;
+}
+
+.tabor .skupina {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tabor .controls.radek {
+    display: flex;
+    justify-content: center;
+}
